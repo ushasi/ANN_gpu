@@ -2,8 +2,6 @@
 Neural Network from scratch Using CUDA
 
 
-Megh Shukla : 173310008 
-Ushasi Chaudhari : 174310003
 
 The code is in 2 files:
 --> ANN_gpu.py
