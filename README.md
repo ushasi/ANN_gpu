@@ -1,7 +1,7 @@
 # ANN_gpu
 Neural Network from scratch Using CUDA
 
-
+| [PPT](https://github.com/ushasi/ANN_gpu/blob/master/ANN_from%20scratch_PPT.pdf) |
 
 The code is in 2 files:
 --> ANN_gpu.py
